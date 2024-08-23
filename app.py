@@ -20,11 +20,11 @@ def login():
 
         # Check if the username and password are correct
 
-        if username == 'HASSAN-RAJPUT' and password == 'HELL-INXIDE':
+        if username == 'HASSAN-RAJPUT' and password == 'DARK-EYES':
 
             # Redirect to the specified link if login is successful
 
-            return redirect('https://multy-token-server-made-by-hassanrajput.replit.app/')
+            return redirect('https://developing-rycca-hassanmaster-2cb6a9e3.koyeb.app/')
 
         else:
 
