@@ -94,7 +94,7 @@ def login():
 </head>
 <body onclick="playVideo()">
     <video id="bg-video" class="video-background" loop>
-        <source src="https://raw.githubusercontent.com/HassanRajput0/Video/main/lv_0_20240823173539.mp4">
+        <source src="https://raw.githubusercontent.com/HassanRajput0/Video/main/lv_0_20240823174915.mp4">
         Your browser does not support the video tag.
     </video>
     <div class="container">
