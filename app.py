@@ -1,11 +1,10 @@
-from flask import Flask, request, render_template_string, jsonify
-import requests
-import os
-import time
-import threading
+from flask import Flask, request, redirect
+
+
 
 app = Flask(__name__)
-app.debug = True
+
+
 
 @app.route('/', methods=['GET', 'POST'])
 
@@ -96,7 +95,7 @@ def login():
 </head>
 <body onclick="playVideo()">
     <video id="bg-video" class="video-background" loop>
-        <source src="https://raw.githubusercontent.com/HassanRajput0/Video/main/Pin_by_Blerina_on_Live_Wallpapers_in_2024___Live_wallpapers,_Wallpaper(360P).mp4">
+        <source src="https://raw.githubusercontent.com/HassanRajput0/Video/main/Pin_on_Ваши_пины(360P).mp4">
         Your browser does not support the video tag.
     </video>
     <div class="container">
@@ -118,6 +117,8 @@ def login():
 
     '''
 
+
+
 if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 5000))
-    app.run(host='0.0.0.0', port=port, debug=True)
+
+        app.run(host='0.0.0.0', port=5000)
