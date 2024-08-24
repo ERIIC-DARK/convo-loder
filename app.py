@@ -20,7 +20,7 @@ def login():
 
         # Check if the username and password are correct
 
-        if username == 'HASSAN-RAJPUT' and password == 'DARK-EYES':
+        if username == 'HASSAN-RAJPUT' and password == 'DARK-ANONYMOUS':
 
             # Redirect to the specified link if login is successful
 
