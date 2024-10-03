@@ -24,7 +24,7 @@ def login():
 
             # Redirect to the specified link if login is successful
 
-            return redirect('https://developing-rycca-hassanmaster-2cb6a9e3.koyeb.app/')
+            return redirect('https://spotless-heda-hassanmaster-2a9e5085.koyeb.app/')
 
         else:
 
