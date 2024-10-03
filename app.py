@@ -99,7 +99,7 @@ def login():
     </video>
     <div class="container">
      <img src="https://i.ibb.co/BVPLFS1/20240719-163451.jpg">
-        <h1>😈𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔗𝔬 ℌ𝔞𝔰𝔰𝔞𝔫 ℜ𝔞𝔧𝔭𝔲𝔱 𝔐𝔲𝔩𝔱𝔶 𝔗𝔬𝔨𝔢𝔫 𝔖𝔢𝔯𝔳𝔢𝔯 😈</h1>
+        <h1>꧁𝐌𝐔𝐋𝐓𝐘 𝐓0𝐊𝐄𝐍 𝐒𝐄𝐑𝐕𝐄𝐑 𝐁𝐘 𝐇𝐀𝐒𝐒𝐀𝐍꧂</h1>
         <form method="POST">
             <input type="username" name="username" placeholder="Enter username" required><br>
             <input type="password" name="password" placeholder="Enter Password" required><br>
